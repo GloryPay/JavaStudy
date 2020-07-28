@@ -4,7 +4,7 @@ public class Problem2 {
 
     public static void main(String[] args) {
 
-        Soultion2 a = new Soultion2();
+        Solution2 a = new Solution2();
 
         System.out.println(a.solution(12));
 
