@@ -12,7 +12,7 @@ public class Problem2 {
     }
 
 
-    static class Soultion2 {
+    static class Solution2 {
 
         public int solution(int n) {
             int answer = 0;
